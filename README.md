@@ -11,9 +11,9 @@ Para mapas y gráficos:
 * [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
 * [Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
-
-
 ## Introducción a R y manejo de datos.
 Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosofía, etc.
 
 ## Limpieza de bases de datos
+
+## Visualización, gráficos y presentación de información
