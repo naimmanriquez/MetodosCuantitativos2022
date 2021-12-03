@@ -17,3 +17,17 @@ Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosof�
 ## Limpieza de bases de datos
 
 ## Visualización, gráficos y presentación de información
+
+## Mapas y georreferenciación
+
+## Mineria de datos
+
+## Encuestas
+
+En esta sesión tendremos una introducción a las bases de datos de encuestas de INEGI, aboremos un análisis inicial de la ENIGH 2020. Durante esta sesión repasaremos:
+
+* Una introducción a la Encuesta Nacional de Ingresos y Gastos de los Hogares - [ENIGH 2020](https://www.inegi.org.mx/programas/enigh/nc/2020/)
+* ¿Qué son los factores de expansión?
+* Manejo de datos de encuestas con survey
+* Tablas de frecuencias
+* Estadísticos descriptivos
