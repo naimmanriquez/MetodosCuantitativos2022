@@ -20,6 +20,8 @@ Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosof�
 
 ## Mapas y georreferenciación
 
+## Regresión lineal, múltiple, probit, logit
+
 ## Mineria de datos
 
 ## Encuestas
