@@ -18,7 +18,11 @@ Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosof�
 
 ## Visualización, gráficos y presentación de información
 
+En esta sesión se revisa la forma de crear visualizaciones a través de gráficos, se utilizaran las librerias de ggplot2, ggthemes, plotly, RColorBrewer, viridis. 
+
 ## Mapas y georreferenciación
+
+En esta sesion veremos como generar mapas a partir de puntos, líneas y polígonos
 
 ## Regresión lineal, múltiple, probit, logit
 
