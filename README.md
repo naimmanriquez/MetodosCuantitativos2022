@@ -46,6 +46,8 @@ En esta sesión tendremos una introducción a las bases de datos de encuestas de
 
 ## Machine Learning
 
+En esta sesión veremos las ideas básicas para análisis predictivo desde el punto de vista de machine learning, incluyendo la construcción de modelos y su validación predictiva. Se entenderán los conceptos que hay detrás de técnicas probadas de machine learning.
+
 ## Análisis de Componentes Principales
 
 ## Series de Tiempo
