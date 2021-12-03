@@ -9,6 +9,7 @@ Algunos libros recomendados para iniciar:
 Para mapas y gráficos:
 
 * [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
+* [Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 
 
