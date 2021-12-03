@@ -22,7 +22,7 @@ En esta sesión se revisa la forma de crear visualizaciones a través de gráfic
 
 ## Mapas y georreferenciación
 
-En esta sesion veremos como generar mapas a partir de puntos, líneas y polígonos
+En esta sesion veremos como generar mapas a partir de puntos, líneas y polígonos. Particularmente se verá como crear un mapa estático (para impresión) a partir de la librería de visualización ggplot2, repasando desde la apertura de datos geográficos (con la librería sf), la unión (con merge() y *_join()) hasta la creación de mapas, la edición del tema y la impresión en un archivo *.png. 
 
 ## Regresión lineal, múltiple, probit, logit
 
