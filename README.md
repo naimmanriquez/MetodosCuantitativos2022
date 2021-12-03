@@ -26,6 +26,8 @@ En esta sesion veremos como generar mapas a partir de puntos, líneas y polígon
 
 ## Regresión lineal, múltiple, probit, logit
 
+Introducción a la creación e inspección de los modelos de regresión lineal en R. Revisamos la función lm() para generar modelos, la interpretación de los coeficientes, del valor p, la hipótesis que prueban esos valores p, una introducción al R2 y un ejemplo de inferencia respecto a los estimadores
+
 ## Mineria de datos
 
 ## Encuestas
