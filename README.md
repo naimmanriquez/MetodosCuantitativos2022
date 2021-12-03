@@ -30,6 +30,8 @@ Introducción a la creación e inspección de los modelos de regresión lineal e
 
 ## Mineria de datos
 
+En esta sesión se hará el ejercicio de descargar múltiples archivos a través de loops for automatizados. Se realizaron 5 ejemplos durante la clase, todos de descarga masiva de datos del INEGI. Veremos una introducción al web scrapping. 
+
 ## Encuestas
 
 En esta sesión tendremos una introducción a las bases de datos de encuestas de INEGI, aboremos un análisis inicial de la ENIGH 2020. Durante esta sesión repasaremos:
