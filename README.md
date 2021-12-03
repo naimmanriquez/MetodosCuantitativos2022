@@ -12,9 +12,11 @@ Para mapas y gráficos:
 * [Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 ## Introducción a R y manejo de datos.
-Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosofía, etc.
+Repaso de RStudio y tidyverse. Conceptos, forma de trabajo, operadores, filosofía, funciones, pipe, etc. 
 
 ## Limpieza de bases de datos
+
+En esta sesión se revisa como limpiar bases de datos, filtrar y seleccionar variables clave. 
 
 ## Visualización, gráficos y presentación de información
 
