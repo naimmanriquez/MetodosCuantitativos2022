@@ -33,3 +33,9 @@ En esta sesión tendremos una introducción a las bases de datos de encuestas de
 * Manejo de datos de encuestas con survey
 * Tablas de frecuencias
 * Estadísticos descriptivos
+
+## Machine Learning
+
+## Análisis de Componentes Principales
+
+## Series de Tiempo
