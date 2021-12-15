@@ -50,6 +50,8 @@ En esta sesión veremos las ideas básicas para análisis predictivo desde el pu
 
 ## Análisis de Componentes Principales
 
+Análisis de componentes principales es una técnica estadística que su principal objetivo es simplificar la complejidad dimensional de un conjunto de datos; asegurando que se conserve la información de conjunto de datos. Es decir, este método de componentes principales condensa la información aportada por múltiples variables en tan sólo pocas variables (componentes) combinando las técnicas de álgebra lineal y estadística.
+
 ## Series de Tiempo
 
 En esta sesión veremos la aplicación de los modelos de series de tiempo en el ámbito de las ciencias sociales. Estudiaremos los modelos de series de tiempo de una variable (ARIMA y de la familia GARCH) para la estimación, pronóstico y simulación del comportamiento de variables a través del tiempo.
