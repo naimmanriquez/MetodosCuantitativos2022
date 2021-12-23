@@ -6,6 +6,10 @@ Algunos libros recomendados para iniciar:
 * [Cookbook for R](http://www.cookbook-r.com/)
 * [R for Data Science](https://r4ds.had.co.nz/)
 
+Para visualización de datos:
+
+* [Data Visualization with R](https://rkabacoff.github.io/datavis/)
+
 Para mapas y gráficos:
 
 * [Geocomputation with R](https://geocompr.robinlovelace.net/index.html)
